@@ -23,7 +23,7 @@
 [<img align="left" alt="Python" width="26px" src="https://www.pythontutorial.net/wp-content/uploads/2020/10/python-tutorial.png" />][]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MachineLearning" width="26px" src="https://admin.oll.co/uploads/course/course_346-3460443_machine-learning-course-near-me-machine-learning-logo_07222312412020000000.jpg" />]
+[<img align="left" alt="MachineLearning" width="26px" src="https://www.tbat.co.uk/wp-content/uploads/2017/07/Machine-learning-small-600x600.jpg" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
