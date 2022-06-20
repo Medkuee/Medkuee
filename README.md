@@ -2,11 +2,6 @@
 
 ## I'm a junior developer.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Mongo DB, Node.js, Express.js, React Native projects
-- ⚡ Fun fact: I love to ride a bicycle
-
 ### Connect with me:
 
 [<img align="left" alt="Бузга Н. | Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/730/PNG/512/fb_icon-icons.com_62768.png" />][facebook]
